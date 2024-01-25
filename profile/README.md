@@ -1,4 +1,4 @@
-<img src="readme.png" alt="Luuppi ry GitHub readme banner">
+<img src="https://github.com/luuppiry/.github/blob/main/profile/readme.png" alt="Luuppi ry GitHub readme banner">
 <br />
 <br />
 
