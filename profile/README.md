@@ -1,6 +1,6 @@
 <img src="https://github.com/luuppiry/.github/blob/main/profile/readme.png" alt="Luuppi ry GitHub readme banner">
 
-## [Luuppi ry](https://www.luuppi.fi/)
+# [Luuppi ry](https://www.luuppi.fi/)
 
 Luuppi ry (which means "loop" in English) is the subject association for students of mathematics, statistical data analysis, and computer science at Tampere University. Since 1969, Luuppi has actively promoted the interests of its members and organized free-time activities. It stands as the largest subject association at the [University of Tampere](https://www.tuni.fi/en), boasting over 1000 members.
 
